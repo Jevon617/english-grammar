@@ -8,16 +8,16 @@ index: 7
 
 ## 副词修饰的对象
 
-英文的修饰语有形容词和副词这两种。形容词是用来修饰名词的修饰语，副词通常是用来修饰动词、形容词与副词的修饰语。但是，有几种副词也可以用来修饰名词，例如：
+英语的修饰语有形容词和副词这两种。形容词是用来修饰名词的修饰语，副词通常是用来修饰动词、形容词与副词的修饰语。但是，有几种副词也可以用来修饰名词，例如：
 
 I like Beijing food, <u>especially roast duck</u>.
 （我喜欢北京菜，尤其是烤鸭。）
 
-句中的especially这个副词是个**强调范围的副词（focusing adverb）**，可以直接用来修饰名词片语 roast duck。所以，要想弄清楚副词的用法，就必须知道副词有哪几种、每一种该怎么使用。这样在写作时才能避免错误。
+句中的especially这个副词是个**强调范围的副词（focusing adverb）**，可以直接用来修饰名词短语 roast duck。所以，要想弄清楚副词的用法，就必须知道副词有哪几种、每一种该怎么使用。这样在写作时才能避免错误。
 
 ## 副词的种类与在句中的位置
 
-另一个要注意的问题是副词在句子中所放的位置。上一章我们研究过形容词、也探讨过形容词两种主要的位​​置：名词片语中与补语位置，还有特别的后位修饰（名词片语后面）的位置。
+另一个要注意的问题是副词在句子中所放的位置。上一章我们研究过形容词、也探讨过形容词两种主要的位​​置：名词短语中与补语位置，还有特别的后位修饰（名词短语后面）的位置。
 
 副词和形容词一样，也是一种修饰语。关于修饰语，有一条基本的修辞原则：修饰语和它所修饰的对象最好尽量接近，这样会比较清楚。另一条基本的修辞原则是：修饰语不应该有两个以上可能修饰的对象而造成模棱两可、语意不清的后果。
 
@@ -25,7 +25,7 @@ I like Beijing food, <u>especially roast duck</u>.
 
 ### 方法状态的副词（adverbs of manner）
 
-表示方法状态的副词，是修饰动词专用的修饰语。原则上它应该放在接近动词的位置，也就是放在动词的前面或者后面。但是，因为副词是可有可无的修饰语、不是主要元素，所以句子中如果有受词、补语等等主要元素时，方法状态的副词或者放在动词前面、或者就要被挤到受词、补语等元素的后面去。以下分别就五种基本句型来看看方法状态副词的用法。
+表示方法状态的副词，是修饰动词专用的修饰语。原则上它应该放在接近动词的位置，也就是放在动词的前面或者后面。但是，因为副词是可有可无的修饰语、不是主要元素，所以句子中如果有宾语、补语等等主要元素时，方法状态的副词或者放在动词前面、或者就要被挤到宾语、补语等元素的后面去。以下分别就五种基本句型来看看方法状态副词的用法。
 
 #### 1). S + V
 
@@ -63,7 +63,7 @@ He <u>reluctantly</u> <u>stayed</u> single.
 S V O (adv.)
 (他公开骚扰那个女孩。)
 
-方法状态的副词 openly 修饰动词 harassed，但是因为有受词 the girl 这个主要元素，所以被挤到受词后面去。另一个选择是放在动词前面，如下：
+方法状态的副词 openly 修饰动词 harassed，但是因为有宾语 the girl 这个主要元素，所以被挤到宾语后面去。另一个选择是放在动词前面，如下：
 
 <u>He</u> <u>openly</u> <u>harassed</u> <u>the girl</u>.
 S (adv.) V O
@@ -74,7 +74,7 @@ S (adv.) V O
 S V O
 (他骚扰那个坐在柜台的女孩。)
 
-受词 the girl 后面还有一个分词片语 sitting at the counter，是形容词子句 who was sitting at the counter 的减化。这时候，如果方法状态的副词 openly 还是放在句尾，那么它修饰的对象可能是 harassed、也可能是 sitting，这句话就没有表达清楚：
+宾语 the girl 后面还有一个分词短语 sitting at the counter，是形容词从句 who was sitting at the counter 的减化。这时候，如果方法状态的副词 openly 还是放在句尾，那么它修饰的对象可能是 harassed、也可能是 sitting，这句话就没有表达清楚：
 
 He <u>harassed</u> the girl <u>sitting</u> at the counter <u>openly</u>. （不佳）
 
@@ -94,13 +94,13 @@ He <u>openly harassed</u> the girl sitting at the counter.
 S V O O (adv.)
 (他父亲很大方地买了辆车给他。)
 
-方法状态的副词 generously 修饰动词 bought，但是被挤到 him 和 a car 这两个受词的后面去。另一个可能的位置是放在动词 bought 的前面，成为 generously bought。
+方法状态的副词 generously 修饰动词 bought，但是被挤到 him 和 a car 这两个宾语的后面去。另一个可能的位置是放在动词 bought 的前面，成为 generously bought。
 
 <u>The student</u> <u>politely</u> <u>asked</u> <u>the speaker</u> <u>a question</u>.
 S (adv.) V O O
 (学生很有礼貌地问了演说人一个问题。)
 
-方法状态的副词 politely 放在动词asked前面、修饰动词。另一个可能的位置是放在句尾、两个受词的后面：asked the speaker a question politely。
+方法状态的副词 politely 放在动词asked前面、修饰动词。另一个可能的位置是放在句尾、两个宾语的后面：asked the speaker a question politely。
 
 #### 5).S + V + O + C
 
@@ -110,7 +110,7 @@ S (adv.) V O O
 S V O C (adv.)
 (我很骄傲地视你为自己家人。)
 
-方法状态的副词 proudly 修饰动词 consider，但是被挤到受词与补语的后面。另一个可能的位置是放在动词前面，成为 proudly consider。
+方法状态的副词 proudly 修饰动词 consider，但是被挤到宾语与补语的后面。另一个可能的位置是放在动词前面，成为 proudly consider。
 
 ### 频率副词（adverbs of frequency）
 
@@ -129,7 +129,7 @@ His jokes <u>are often</u> not funny at all.
 I <u>have never seen</u> this man before.
 (我以前从来没见过这个人。)
 
-频率副词 never 修饰动词片语 have seen，放在助动词 have 后面。
+频率副词 never 修饰动词短语 have seen，放在助动词 have 后面。
 
 <u>Occasionally</u> I <u>spend</u> a whole day in the multiplex.
 (偶尔我会在多厅电影院待上一整天。)
@@ -163,7 +163,7 @@ John <u>only saw</u> the boss yesterday. (约翰昨天只是见到了老板。)
 John saw <u>only the boss</u> yesterday.
 (约翰昨天见到的只有老板一人。)
 
-意思是说并没有见到别的人。副词only修饰的是名词片语the boss。请注意：only 是副词，修饰名词片语 the boss 时位置是放在整个名词片语的前面（成为only the boss）。如果是形容词，那么位置不是在名词片语前面、而应该在名词片语中间，例如 the young boss，中间的 young 才是形容词。
+意思是说并没有见到别的人。副词only修饰的是名词短语the boss。请注意：only 是副词，修饰名词短语 the boss 时位置是放在整个名词短语的前面（成为only the boss）。如果是形容词，那么位置不是在名词短语前面、而应该在名词短语中间，例如 the young boss，中间的 young 才是形容词。
 
 John saw the boss <u>only yesterday</u>.
 (约翰到昨天才见到了老板。)
@@ -177,7 +177,7 @@ John saw the boss <u>only yesterday</u>.
 You are <u>absolutely a genius</u>!
 (你绝对是个天才！)
 
-句中的 absolutely 是加强语气的副词，修饰名词片语 a genius，所以放在前面。如果是形容词则应该放在限定词 a 和名词 genius 中间。
+句中的 absolutely 是加强语气的副词，修饰名词短语 a genius，所以放在前面。如果是形容词则应该放在限定词 a 和名词 genius 中间。
 
 The test is <u>extremely difficult</u>.
 (这种考试极为困难。)
@@ -219,7 +219,7 @@ The plan <u>failed</u>.
 Your son is <u>quite</u> <u>a man</u> now.
 (你儿子现在差不多是个大男人了。)
 
-程度副词 quite 表示「颇高」的程度，在此修饰名词片语 a man，放在名词片语的前面。
+程度副词 quite 表示「颇高」的程度，在此修饰名词短语 a man，放在名词短语的前面。
 
 I <u>barely know</u> John.
 (约翰这个人我算不上认识。)
@@ -238,24 +238,24 @@ That is a <u>fairly</u> <u>long</u> story.
 
 ### 连接副词(conjunctive)
 
-这种副词,意思和对等连接词( and, or, but )类似，但是缺乏连接词的文法功能。亦即，连接副词可以用来表示前后两个子句之间的逻辑关系，但是不能用它来连接两个子句, 必须借助标点符号: 加上分号把两个子句分开，或者用句点之类断开变成两句话。
+这种副词,意思和并列连词( and, or, but )类似，但是缺乏连词的语法功能。亦即，连接副词可以用来表示前后两个从句之间的逻辑关系，但是不能用它来连接两个从句, 必须借助标点符号: 加上分号把两个从句分开，或者用句点之类断开变成两句话。
 
 Sales have increased 20%; <u>besides</u>, production cost has come down.
 (销售上涨20%,而且生产成本又降低了。)
 
-这里面有两个对等子句，中间缺乏连接词，只有个连接副词 besides。这个连接副词的意思近似对等连接词 and，但它是副词类、并不具备连接两个子句的文法功能，所以要借助分号 (;) 这个标点符号才能连接两个子句。
+这里面有两个对等从句，中间缺乏连词，只有个连接副词 besides。这个连接副词的意思近似并列连词 and，但它是副词类、并不具备连接两个从句的语法功能，所以要借助分号 (;) 这个标点符号才能连接两个从句。
 
 <u>Consequently</u>, we should have no problem reaching our goals this year.
 (因此,我们达成今年的目标应该没有问题。)
 
-这句话和上一句之间有因果关系，用 consequently 这个连接副词表示。连接副词的意思类似连接词so，但是并不具备连接两个子句的文法功能,所以和上一句之间用句点断开、另起一句。
+这句话和上一句之间有因果关系，用 consequently 这个连接副词表示。连接副词的意思类似连词so，但是并不具备连接两个从句的语法功能,所以和上一句之间用句点断开、另起一句。
 
 <u>However</u>, projections for the next fiscal year are not very optimistic.
 (不过,下一个会计年度的预期却不甚乐观。)
 
-这句话和上一句之间有相反关系，用 however 这个连接副词表示，意思类似对等连接词 but。但是 however 并非真正的连接词，不能用它来连接两个子句，所以同样选择用句点和上一句断开、成为两句话。
+这句话和上一句之间有相反关系，用 however 这个连接副词表示，意思类似并列连词 but。但是 however 并非真正的连词，不能用它来连接两个从句，所以同样选择用句点和上一句断开、成为两句话。
 
-两个完整的句子之间没有连接词、却直接打个逗点就连在一起,这是写作时最常犯的错误之一:
+两个完整的句子之间没有连词、却直接打个逗点就连在一起,这是写作时最常犯的错误之一:
 
 He is short, however, he plays basketball well. (误)
 (他个子不高,篮球却打得很好。)
@@ -264,7 +264,7 @@ He is short, however, he plays basketball well. (误)
 
 ### 分离副词 (disjuncts)
 
-一般文法书都说这种副词是修饰全句的副词，这种说法也可以接受。不过，如果深入观察省略的情形，就可以看出这种副词原本属于另一个子句，是该子句中的方法、状态副词。看看这个例子：
+一般语法书都说这种副词是修饰全句的副词，这种说法也可以接受。不过，如果深入观察省略的情形，就可以看出这种副词原本属于另一个从句，是该从句中的方法、状态副词。看看这个例子：
 
 <u>Theoretically</u>, your proposal might work.
 (理论上，你提的案子可能行得通。)
@@ -274,28 +274,28 @@ He is short, however, he plays basketball well. (误)
 <u>Theoretically speaking</u>, your proposal might work.
 (从理论上说，你提的案子可能行得通。)
 
-画底线部分（theoretically speaking）是个经过减化的副词子句，可以进一步还原如下：
+画底线部分（theoretically speaking）是个经过减化的副词从句，可以进一步还原如下：
 
 <u>If we are speaking theoretically</u>, your proposal might work.
 (如果我们从理论上来说，你提的案子可能行得通。)
 
-画底线部分（if we are speaking theoretically）是个表示条件的副词子句，句中的 theoretically 是个方法、状态的副​​词，修饰动词 speak 的「方式」。但是，整个副词子句减化到只剩下一个副词 theoretically，这种情况就称为分离副词（因为它并不是主要子句里面的一个副词），也就是传统文法所谓「修饰整句话」的副词。
+画底线部分（if we are speaking theoretically）是个表示条件的副词从句，句中的 theoretically 是个方法、状态的副​​词，修饰动词 speak 的「方式」。但是，整个副词从句减化到只剩下一个副词 theoretically，这种情况就称为分离副词（因为它并不是主要从句里面的一个副词），也就是传统语法所谓「修饰整句话」的副词。
 
-上面那个句子，副词子句的主词是 we、主要子句的主词是 your proposal，两个子句的主词并不相同。这种情况通常并不适合进行减化。但是，因为 theoretically speaking 这样的讲法已经变成惯用的片语，所以仍然可以接受。减化子句属于高级句型，本书将在后面的章节详述。
+上面那个句子，副词从句的主语是 we、主要从句的主语是 your proposal，两个从句的主语并不相同。这种情况通常并不适合进行减化。但是，因为 theoretically speaking 这样的讲法已经变成惯用的短语，所以仍然可以接受。减化从句属于高级句型，本书将在后面的章节详述。
 
 ### 介副词（particles）
 
-所谓介副词，就是一些看起来像介系词、后面却不加受词，直接拿来当副词使用的字。例如：
+所谓介副词，就是一些看起来像介词、后面却不加宾语，直接拿来当副词使用的字。例如：
 
 Were you <u>in</u> last night?
 (昨晚你在家吗？)
 
-介副词 in 当主词补语使用，修饰主词 you。
+介副词 in 当主语补语使用，修饰主语 you。
 
 Time is <u>up</u>.
 (时间到！)
 
-介副词 up 当主词补语使用，修饰主词 time。
+介副词 up 当主语补语使用，修饰主语 time。
 
 Don’t look <u>down</u>.
 (别往下看！)
@@ -307,7 +307,7 @@ He came <u>over</u> to talk to you.
 
 介副词 over 修饰动词 come。
 
-动词后面加个介副词，常常可以构成一个片语动词。有关片语动词的问题，本书将在后面讨论介系词的章节详述。
+动词后面加个介副词，常常可以构成一个短语动词。有关短语动词的问题，本书将在后面讨论介词的章节详述。
 
 ### 可以修饰名词的副词
 
@@ -316,12 +316,12 @@ He came <u>over</u> to talk to you.
 <u>The final game tomorrow</u> is going to be exciting.
 (明天的决赛将很刺激。)
 
-句中的 tomorrow 是时间副词，修饰前面的名词片语 the final game。
+句中的 tomorrow 是时间副词，修饰前面的名词短语 the final game。
 
 <u>All the people here</u> are your friends.
 (这里所有人都是你的朋友。)
 
-句中的 here 是地方副词，修饰前面的名词片语 all the people。
+句中的 here 是地方副词，修饰前面的名词短语 all the people。
 
 时间副词与地方副词，这两种副词最常见的用法还是用来修饰动词的。这时候，这两种副词通常放在句尾：地方副词在前、时间副词在后。例如：
 
@@ -332,21 +332,21 @@ He <u>had</u> an accident <u>there yesterday</u>.
 
 <u>Yesterday</u>, <u>around this very corner</u>, a bomb <u>exploded</u>. (昨天，就在这个街角，有枚炸弹爆炸。)
 
-时间副词 yesterday 与地方副词 around this very corner（介系词片语）修饰动词 exploded，位置可以放在句首。
+时间副词 yesterday 与地方副词 around this very corner（介词短语）修饰动词 exploded，位置可以放在句首。
 
 ### 可以当补语的副词
 
-补语（包括主词补语和受词补语）最常见的词类是名词和形容词。但是时间副词、地方副词与介副词也都可以当补语使用。例如：
+补语（包括主语补语和宾语补语）最常见的词类是名词和形容词。但是时间副词、地方副词与介副词也都可以当补语使用。例如：
 
 The exam is <u>only one week away</u>. It's <u>next Friday</u>.
 （考试只剩一周就到了，在下周五。）
 
-时间副词片语 only one week away 和 next Friday 分别在这两个句子中担任主词补语角色。
+时间副词短语 only one week away 和 next Friday 分别在这两个句子中担任主语补语角色。
 
 The police is <u>here</u>. Something’s <u>up</u>.
 （警察来了。一定有事。）
 
-地方副词 here 和介副词 up 分别在这两个句子中担任主词补语角色。
+地方副词 here 和介副词 up 分别在这两个句子中担任主语补语角色。
 
 ## 副词种类与位置的比较
 
@@ -361,7 +361,7 @@ Let’s <u>discuss</u> this problem <u>practically</u>.
 <u>Practically</u>, you don't stand a chance in court.
 （实际一点来说，你上法庭根本没有机会赢。）
 
-第 1 句中的 practically 是个程度副词，修饰形容词 impossible，表示「几乎不可能」，应置于 impossible 前面。第 2 句中的 practically 是方法状态副词，修饰动词 discuss 的方式，应置于受词 this problem 后面。第 3 句中的 practically 是个分离副词，是 practically speaking 的省略，应置于句首。再看一组例子：
+第 1 句中的 practically 是个程度副词，修饰形容词 impossible，表示「几乎不可能」，应置于 impossible 前面。第 2 句中的 practically 是方法状态副词，修饰动词 discuss 的方式，应置于宾语 this problem 后面。第 3 句中的 practically 是个分离副词，是 practically speaking 的省略，应置于句首。再看一组例子：
 
 His ideas <u>are generally</u> very helpful.
 （ 他的点子通常都很管用。）
@@ -372,7 +372,7 @@ He <u>described</u> the plan <u>generally</u>, without much detail.
 <u>Generally</u>, I like his ideas.
 （ 一般说来，我很喜欢他的点子。）
 
-第 1 句中的 generally 是个频率副词，修饰动词 are，表示「通常」，应置于动词后面。第 2 句中的 generally 是方法状态副词，修饰动词 describe 的方式，应置于受词 the plan 后面。第 3 句中的 generally 是个分离副词，是 generally speaking 的省略，应置于句首。
+第 1 句中的 generally 是个频率副词，修饰动词 are，表示「通常」，应置于动词后面。第 2 句中的 generally 是方法状态副词，修饰动词 describe 的方式，应置于宾语 the plan 后面。第 3 句中的 generally 是个分离副词，是 generally speaking 的省略，应置于句首。
 
 ## 副词的位置与清楚性
 
@@ -405,7 +405,7 @@ The man was seen to be <u>clearly dying</u>.
 
 He <u>confessed</u> that he had been <u>abusing</u> his wife <u>openly</u>. （不佳）
 
-方法状态的副词 openly 放在这个位置，既是主要子句的句尾、又是名词子句（that子句）的句尾。它修饰的对象到底是主要子句的动词 confess 还是名词子句的动词 abuse，并不清楚，所以是不好的句子。可分别修改如下：
+方法状态的副词 openly 放在这个位置，既是主要从句的句尾、又是名词从句（that从句）的句尾。它修饰的对象到底是主要从句的动词 confess 还是名词从句的动词 abuse，并不清楚，所以是不好的句子。可分别修改如下：
 
 He <u>openly confessed</u> that he had been abusing his wife.
 （他公开承认他有在虐待他老婆。）
@@ -423,19 +423,19 @@ When you shake someone's hand, <u>you</u> <u>should hold</u> <u>it</u> <u>firmly
 S V O
 （与人握手时应用力，以示诚意。）
 
-主要子句是 S + V + O 的句型，方法状态的副词 firmly 置于受词后面、修饰动词 hold。下面这句的情况不同：
+主要从句是 S + V + O 的句型，方法状态的副词 firmly 置于宾语后面、修饰动词 hold。下面这句的情况不同：
 
 <u>Hold</u> <u>the camera</u> <u>firm</u> while you take the picture.
 V O C
 （拍照时请将相机拿稳了。）
 
-这时并不是用方法状态的副词 firmly 来修饰动词 hold（表示「用力握」），而是用形容词 firm 当受词补语，修饰受词 camera（表示「相机稳」的结果）。
+这时并不是用方法状态的副词 firmly 来修饰动词 hold（表示「用力握」），而是用形容词 firm 当宾语补语，修饰宾语 camera（表示「相机稳」的结果）。
 
 The enemy is advancing. <u>Stand</u> <u>firm</u>.
 V C
 （敌人推进了。大家稳着点。）
 
-这个句子的意思也不是叫大家「用力站」，而是要「稳住」。句型是 S + V + C，形容​​词 firm 是主词补语，修饰的对像是命令句省略掉的主词 you。
+这个句子的意思也不是叫大家「用力站」，而是要「稳住」。句型是 S + V + C，形容​​词 firm 是主语补语，修饰的对像是命令句省略掉的主语 you。
 
 再看看 clean/cleanly 的例子：
 
@@ -443,7 +443,7 @@ V C
 S V O C
 （这个人把挡风玻璃擦干净。）
 
-这是 S + V + O + C 的句型，形容词 clean 是受词补语，修饰受词 windshield。
+这是 S + V + O + C 的句型，形容词 clean 是宾语补语，修饰宾语 windshield。
 
 <u>He</u> <u>types</u> <u>cleanly</u> and neatly.
 S V
@@ -468,4 +468,4 @@ S V O
 S V O C
 （她让学生都很清楚这一课的内容。）
 
-这是 S + V + O + C 的句型，形容词 clear 是受词补语，修饰受词 lesson。
+这是 S + V + O + C 的句型，形容词 clear 是宾语补语，修饰宾语 lesson。
