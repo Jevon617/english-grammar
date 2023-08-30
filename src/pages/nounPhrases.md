@@ -14,7 +14,7 @@ index: 4
 
 请先看看下列这些名词短语的例子：
 
-| 限定词 | 形容词 | 名词 |
+| 限定词 | 形容词 | 名词 | 解释 |
 | --- | --- | --- | --- |
 | a | good | teacher | 一位好老师 |
 | some | troublesome | students | 几个问题学生 |
@@ -290,7 +290,7 @@ I want <u>these</u>.
 
 限定词的分类，依其性质可以分成**限制性（definite）**限定词如 the, those, John's、以及**非限制性（indefinite）**限定词如 a, some, fifty。若依其限定范围来划分，可以分成**部分性（partitive）**限定词如 some、以及**全称性（universal）**限定词如 all。不过，与英语写作比较密切相关的一种分类是以限定词在名词短语中出现的位置来划分：可以分成**前位限定词（predeterminers）**、**中位限定词（central determiners）**以及**后位限定词（ postdeterminers）**。先看看下面几个例子：
 
-| 前位 | 中位 | 後位 | 形容詞 | 名詞 |
+| 前位 | 中位 | 後位 | 形容詞 | 名詞 | 解释 |
 | --- | --- | --- | --- | --- | --- |
 | all | these | many | brave | soldiers | 这许多英勇士兵全数 |
 | half | your | twenty | expensive | houses | 你那二十栋豪宅的半数 |
@@ -300,7 +300,7 @@ I want <u>these</u>.
 
 在限定词中排第一顺位的称为前位限定词。与中位限定词共同使用时，前位限定词一定要放在前面。包括 all, both, half, one-third, one-fifth, double, twice, three times, such 等等都属于前位限定词。例如：
 
-| 前位限定詞 | 中位限定詞 | 名詞 |
+| 前位限定詞 | 中位限定詞 | 名詞 |解释 |
 | --- | --- | --- | --- |
 | all | the | girls | 这些女生全数 |
 | both | those | cars | 那两辆车 |
@@ -314,7 +314,7 @@ I want <u>these</u>.
 
 后位限定词用在名词短语中要排在后面的顺位。如果和前位限定词或中位限定词共同使用时，后位限定词一定要放在最后面（当然，它的位置仍然在形容词的前面）。后位限定词包括所有的数目字（three, 200）、序数（first, second, 300th, last），以及表示「多、少」的 many, much, little, few 等等。例如：
 
-| 中位限定詞 | 後位限定詞 | 名詞 |
+| 中位限定詞 | 後位限定詞 | 名詞 |解释 |
 | --- | --- | --- | --- |
 | my | three | children | 我的三个小孩 |
 | the | seventh | day | 第七天 |
@@ -326,7 +326,7 @@ I want <u>these</u>.
 
 限定词当中出现频率最高的是中位限定词，包括冠词（a, an, the以及零冠词）、指示限定词（this, that, these, those）、不定限定词（some, any, either）、否定限定词（no, neither）、全称限定词（every, each）与所有格（my, your, John's）等等都属于中位限定词。例如：
 
-| 中位限定詞 | 名詞 |
+| 中位限定詞 | 名詞 | 解释 |
 | --- | --- | --- |
 | a | book | 一本书 |
 | an | egg | 一枚蛋 |
@@ -361,7 +361,7 @@ every some mistake (误)
 
 看看下面这个名词短语的例子：
 
-| 限定词 | 名词 |
+| 限定词 | 名词 | 解释 |
 | --- | --- | --- |
 | a dog’s | ears | 狗耳朵 |
 
@@ -377,7 +377,7 @@ my father’s company 我父亲的公司
 
 名词短语末尾的名词位置，也可以塞一个完整的名词短语进去。例如：
 
-| 限定词 | 形容词 | 名词 |
+| 限定词 | 形容词 | 名词 |解释 |
 | --- | --- | --- | --- |
 | an | unbelievable | 200 million dollars | 难以置信的二千亿元 |
 
@@ -591,7 +591,7 @@ the Danube 多瑙河 the Himalayas 喜马拉雅山 the Maldives 马尔地夫群�
 
 另一种专有名词是某些「国名」,看看两个例子:
 
-| 限定词 | 形容词 | 名词 |
+| 限定词 | 形容词 | 名词 |解释 |
 | --- | --- | --- | --- |
 | the | Dominican | Republic |
 | the | United | States | of America |
