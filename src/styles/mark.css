@@ -1,0 +1,175 @@
+mark-el {
+  cursor: pointer;
+  display: inline;
+  text-decoration: underline wavy orange;
+}
+
+#tooltip {
+  background: #222;
+  color: white;
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  height: fit-content;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  display: none;
+}
+
+#arrow {
+  position: absolute;
+  background: #222;
+  width: 8px;
+  height: 8px;
+  transform: rotate(45deg);
+}
+
+#anchor {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: transparent;
+  z-index: -1;
+}
+
+
+.btn-wrapper {
+  display: flex;
+  gap: 12px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+
+.modal {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0,0,0,.7);
+  z-index: 1000;
+  display: none;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.comment {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding: 6px 24px;
+  background-color: white;
+  user-select: none;
+}
+
+.input-wrapper {
+  display: flex;
+  height: 45px;
+  align-items: center;
+  gap: 12px;
+}
+
+.input-wrapper input {
+  height: 45px;
+  flex: 1;
+  outline: none;
+  border: none;
+  color: #323233;
+  font-size: 14px;
+  background-color: transparent;
+  box-shadow: none;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.input-wrapper input::placeholder {
+  color: #ccc;
+}
+
+.comment-btn {
+  color: #ccc;
+  font-weight: 500;
+  font-size: 14px;
+  transition: color cubic-bezier(0.39, 0.575, 0.565, 1);
+}
+
+.reference {
+  line-height: 40px;
+  width: 100%;
+  font-size: 14px;
+  color: #7d7272;
+  border-bottom: 1px solid #ebedf0;
+  line-height: 24px;
+}
+
+.note-modal {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0,0,0,.7);
+  z-index: 1000;
+  padding: 24px 12px;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  overflow-y: auto;
+  display: none;
+}
+
+.note-modal .close {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: black;
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1001;
+}
+
+.note-modal .close svg {
+  height: 18px;
+  width: 18px;
+}
+
+.list-item {
+  width: 100%;
+  border-radius: 20px;
+  background-color: #1C1C1C;
+  color: rgb(237 215 215);
+  /* 添加其他样式来模拟磨砂效果 */
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 12px 20px;
+  font-size: 16px;
+}
+
+.list-item + .list-item{
+  margin-top: 12px;
+}
+
+.list-item .header {
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  align-items: center;
+}
+
+.list-item .all-note {
+  border-radius: 20px;
+  background-color: #312b2b;
+  padding: 0 10px;
+  line-height: 26px;
+}
+
+.list-item .original {
+  border-bottom: 1px solid rgba(84, 84, 84, .48);
+  padding-bottom: 6px;
+  margin-bottom: 6px;
+}
