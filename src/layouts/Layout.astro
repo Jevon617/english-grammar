@@ -1,6 +1,8 @@
 ---
 import type { MarkdownLayoutProps } from 'astro'
 import '../styles/tailwind.css'
+import '../styles/mark.css'
+
 import Sidebar from '../components/Sidebar.astro'
 import Main from '../components/Main.astro'
 import Menu from '../components/Menu.astro'
@@ -16,19 +18,48 @@ const { frontmatter: { title }, headings } = Astro.props
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta name="viewport" content="width=device-width initial-scale=1width=device-width, initial-scale=1.0, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <title>{ title } - 旋元佑进阶文法</title>
+    <script src="../note/index.js"></script>
   </head>
   <body class="flex h-screen bg-bgColor">
+    <div id="tooltip" role="tooltip">
+      <div class="btn-wrapper">
+        <button id="note">笔记</button>
+        <button id="decoration">划线</button>
+      </div>
+      <div id="arrow"></div>
+    </div>
     <Sidebar title={ title }/>
 
     <Main title={ title }>
+      <div id="anchor"></div>
       <slot />
     </Main>
 
     <Menu headings={ headings }/>
+    <div class="note-modal">
+      <div class="list">
+      </div>
+
+      <div class="close">
+        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="27" viewBox="0 0 26 27" fill="none">
+          <path d="M15.2526 13.7445L25.5511 3.43877C25.8132 3.13481 25.9508 2.74296 25.9364 2.34174C25.9219 1.94053 25.7565 1.55959 25.4732 1.2753C25.1899 0.990997 24.8098 0.824337 24.4089 0.808721C24.008 0.793104 23.616 0.929683 23.3115 1.19108L13.0039 11.4968L2.69241 1.18717C2.39223 0.898488 1.9909 0.739104 1.5746 0.743243C1.15829 0.747382 0.760204 0.914713 0.465816 1.20931C0.171429 1.5039 0.00421448 1.90227 7.858e-05 2.31887C-0.00405732 2.73547 0.155215 3.13708 0.443696 3.43747L10.7422 13.7432L0.443696 24.0489C0.155215 24.3492 -0.00405732 24.7509 7.858e-05 25.1675C0.00421448 25.5841 0.171429 25.9824 0.465816 26.277C0.760204 26.5716 1.15829 26.7389 1.5746 26.7431C1.9909 26.7472 2.39223 26.5878 2.69241 26.2992L13 15.9935L23.3076 26.2992C23.6078 26.5878 24.0091 26.7472 24.4254 26.7431C24.8417 26.7389 25.2398 26.5716 25.5342 26.277C25.8286 25.9824 25.9958 25.5841 25.9999 25.1675C26.0041 24.7509 25.8448 24.3492 25.5563 24.0489L15.2526 13.7445Z" fill="currentColor"/>
+        </svg>
+      </div>
+    </div>
+
+    <div class="modal">
+      <div class="comment">
+        <div class="reference">引用: <span class="reference-text">我是烧到恢复到非活动啊哈放到符号符号东方红奥大富豪</span></div>
+        <div class="input-wrapper">
+          <input type="text" placeholder="写出你的想法,小碗" class="comment-input">
+        </div>
+      </div>
+    </div>
+
   </body>
 </html>
 <style is:global>
