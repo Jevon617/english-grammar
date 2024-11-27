@@ -4,6 +4,12 @@ mark-el {
   text-decoration: underline wavy orange;
 }
 
+mark-el[marktype="decoration"] {
+  text-decoration: none;
+  background-color: orangered;
+  color: white;
+}
+
 #tooltip {
   background: #222;
   color: white;
@@ -169,7 +175,12 @@ mark-el {
 }
 
 .list-item .original {
-  border-bottom: 1px solid rgba(84, 84, 84, .48);
   padding-bottom: 6px;
   margin-bottom: 6px;
 }
+
+.note-content {
+  border-top: 1px solid rgba(84, 84, 84, .48);
+  padding-top: 10px;
+}
+

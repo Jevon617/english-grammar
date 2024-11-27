@@ -10,12 +10,12 @@ const arrowEl = document.querySelector('#arrow')
 const anchorEl = document.querySelector('#anchor')
 const mainEl = document.querySelector('main')
 const noteEl = document.querySelector('#note')
+const decorationEl = document.querySelector('#decoration')
 const modalEl = document.querySelector('.modal')
 const commentEl = document.querySelector('.comment')
 const inputEl = document.querySelector('.comment-input')
 const referenceText = document.querySelector('.reference-text')
 const isPc = detectDevice() === 'Desktop'
-console.log(isPc)
 const noteModalEl = document.querySelector('.note-modal')
 const listEl = document.querySelector('.note-modal .list')
 const closeEl = document.querySelector('.note-modal .close')
@@ -58,10 +58,16 @@ instance.automark(dataList)
 ;['touchstart', 'mousedown'].forEach(event => {
   noteEl.addEventListener(event, showInput)
   mainEl.addEventListener(event, hideTooltip)
+  decorationEl.addEventListener(event, () => {
+    record('', 'decoration')
+  })
 })
 
 ;['touchend', 'mouseup'].forEach(event => {
   noteEl.addEventListener(event, (e) => {
+    e.stopPropagation()
+  })
+  decorationEl.addEventListener(event, (e) => {
     e.stopPropagation()
   })
   mainEl.addEventListener(event, onSelectEnd)
@@ -88,9 +94,9 @@ function showInput(e) {
   }
 }
 
-function record(note) {
+function record(note, type = 'modify') {
   restoreSelection()
-  const data = instance.mark('modify')
+  const data = instance.mark(type)
   if (data) {
     data.note = note
     dataList.push(data)
@@ -181,7 +187,7 @@ function generateNoteList(key) {
           <span>原文:</span>
           <span class="original-content">${note.content}</span>
         </div>
-        <div class="note-content">${note.note}</div>
+        ${note.note ? `<div class="note-content">${note.note}</div>` : ''}
       `
     return listItem
   })
