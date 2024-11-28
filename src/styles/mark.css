@@ -1,4 +1,13 @@
+
+body {
+  overflow: hidden;
+}
+
 mark-el {
+  cursor: pointer;
+}
+
+mark-el[marktype="modify"] {
   cursor: pointer;
   display: inline;
   text-decoration: underline wavy orange;
@@ -6,23 +15,49 @@ mark-el {
 
 mark-el[marktype="decoration"] {
   text-decoration: none;
-  background-color: orangered;
-  color: white;
+  background-color: rgb(144, 238, 144);
+}
+
+mark-el[marktype="decoration-2"] {
+  text-decoration: none;
+  background-color: rgb(173, 216, 230);
+}
+
+mark-el[marktype="decoration-3"] {
+  text-decoration: none;
+  background-color: rgb(248, 151, 129);
+}
+
+mark-el[marktype="decoration-4"] {
+  text-decoration: none;
+  background-color: rgb(255, 182, 193);
 }
 
 #tooltip {
-  background: #222;
-  color: white;
-  font-weight: bold;
-  padding: 6px 12px;
-  border-radius: 4px;
-  font-size: 14px;
-  height: fit-content;
-  position: absolute;
+  background-color: #fff;
+  gap: 8px;
+  border-radius: 16px;
+  margin: 0px;
+  padding: 4px 8px 4px 4px;
+  border: 1px solid rgb(230, 230, 230);
   top: 0;
   left: 0;
   z-index: 1;
   display: none;
+  height: fit-content;
+  position: absolute;
+}
+
+.color-btn {
+  width: 28px;
+  height: 28px;
+  border-radius: 100%;
+}
+
+#tooltip svg {
+  color: #ccc;
+  width: 28px;
+  height: 28px;
 }
 
 #arrow {
@@ -121,6 +156,8 @@ mark-el[marktype="decoration"] {
   -webkit-backdrop-filter: blur(20px);
   overflow-y: auto;
   display: none;
+  height: 100vh;
+  padding-bottom: 150px;
 }
 
 .note-modal .close {
@@ -171,7 +208,24 @@ mark-el[marktype="decoration"] {
   border-radius: 20px;
   background-color: #312b2b;
   padding: 0 10px;
-  line-height: 26px;
+  height: 26px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-item .all-note .delete,.list-item .all-note .context {
+  padding: 6px;
+}
+
+.list-item .all-note .delete svg {
+  width: 18px;
+  height: 18px;
+}
+.list-item .all-note .context svg {
+  width: 14px;
+  height: 14px;
 }
 
 .list-item .original {
@@ -184,3 +238,18 @@ mark-el[marktype="decoration"] {
   padding-top: 10px;
 }
 
+.list-item[data-type="decoration"] .original {
+  color: rgb(144, 238, 144);
+}
+
+.list-item[data-type="decoration-2"] .original {
+  color: rgb(173, 216, 230);
+}
+
+.list-item[data-type="decoration-3"] .original {
+  color: rgb(248, 151, 129);
+}
+
+.list-item[data-type="decoration-4"] .original {
+  color: rgb(255, 182, 193);
+}

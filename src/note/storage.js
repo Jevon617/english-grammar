@@ -1,7 +1,7 @@
-const key = '__astro__english__grammar__'
+const KEY = '__astro__english__grammar__'
 
 export function getStorage() {
-  let res = localStorage.getItem(key)
+  let res = localStorage.getItem(KEY)
   try {
     res = JSON.parse(res) || {}
     return res
@@ -20,10 +20,21 @@ export function setStorage(storage) {
   const id = generateBase64Id()
   const originStorage = getStorage()
   originStorage[id] = storage || []
-  localStorage.setItem(key, JSON.stringify(originStorage))
+  localStorage.setItem(KEY, JSON.stringify(originStorage))
 }
 
 function generateBase64Id() {
   const currentUrl = window.location.href
   return btoa(currentUrl)
+}
+
+export function removeStorage(key) {
+  const id = generateBase64Id()
+  const originStorage = getStorage()
+  const data = originStorage[id] || []
+  const index = data.findIndex(item => item.key === key)
+  if (index > -1) {
+    data.splice(index, 1)
+  }
+  localStorage.setItem(KEY, JSON.stringify(originStorage))
 }
