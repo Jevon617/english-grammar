@@ -42,9 +42,9 @@ function hideModal() {
 function showModal() {
   modalEl.style.display = 'block'
 }
+let dataList = getCurrentPageStorage()
 
 const tag = 'mark-el'
-const dataList = getCurrentPageStorage()
 const instance = new Mark(document.querySelector('main'), {
   tagName: 'mark-el'
 })
@@ -210,6 +210,10 @@ listEl.addEventListener('click', (e) => {
     markEl.removeAttribute('marktype')
     parent.remove()
     removeStorage(key)
+    dataList = getCurrentPageStorage()
+    if (!dataList.length) {
+      hideNoteModal()
+    }
   }
 })
 

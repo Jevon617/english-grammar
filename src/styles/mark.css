@@ -38,7 +38,7 @@ mark-el[marktype="decoration-4"] {
   gap: 8px;
   border-radius: 16px;
   margin: 0px;
-  padding: 4px 8px 4px 4px;
+  padding: 4px;
   border: 1px solid rgb(230, 230, 230);
   top: 0;
   left: 0;
@@ -58,6 +58,8 @@ mark-el[marktype="decoration-4"] {
   color: #ccc;
   width: 28px;
   height: 28px;
+  background-color: orange;
+  border-radius: 50%;
 }
 
 #arrow {
@@ -79,7 +81,7 @@ mark-el[marktype="decoration-4"] {
 
 .btn-wrapper {
   display: flex;
-  gap: 12px;
+  gap: 8px;
   cursor: pointer;
   font-size: 14px;
 }
