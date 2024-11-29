@@ -84,6 +84,7 @@ mark-el[marktype="decoration-4"] {
   gap: 8px;
   cursor: pointer;
   font-size: 14px;
+  cursor: pointer;
 }
 
 
@@ -110,13 +111,15 @@ mark-el[marktype="decoration-4"] {
 
 .input-wrapper {
   display: flex;
-  height: 45px;
   align-items: center;
   gap: 12px;
 }
 
-.input-wrapper input {
-  height: 45px;
+
+.input-wrapper textarea {
+  min-height: 48px;
+  line-height: 24px;
+  resize: none;
   flex: 1;
   outline: none;
   border: none;
@@ -126,6 +129,7 @@ mark-el[marktype="decoration-4"] {
   box-shadow: none;
   -webkit-appearance: none;
   -webkit-tap-highlight-color: transparent;
+  overflow: hidden;
 }
 
 .input-wrapper input::placeholder {
@@ -146,6 +150,7 @@ mark-el[marktype="decoration-4"] {
   color: #7d7272;
   border-bottom: 1px solid #ebedf0;
   line-height: 24px;
+  margin-bottom: 10px;
 }
 
 .note-modal {
@@ -215,13 +220,14 @@ mark-el[marktype="decoration-4"] {
   gap: 12px;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 
-.list-item .all-note .delete,.list-item .all-note .context {
-  padding: 6px;
+.list-item .all-note > div {
+  padding: 4px;
 }
 
-.list-item .all-note .delete svg {
+.list-item .all-note .delete svg,.list-item .all-note .edit svg {
   width: 18px;
   height: 18px;
 }
@@ -238,6 +244,8 @@ mark-el[marktype="decoration-4"] {
 .note-content {
   border-top: 1px solid rgba(84, 84, 84, .48);
   padding-top: 10px;
+  white-space: pre-wrap; /* 保留换行符和空白字符 */
+  overflow-wrap: break-word; /* 长单词在行尾换行 */
 }
 
 .list-item[data-type="decoration"] .original {

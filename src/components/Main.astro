@@ -59,10 +59,4 @@ window.addEventListener('beforeunload', () => {
   main && localStorage.setItem('pageScroll', main.scrollTop + '')
 })
 
-document.addEventListener('keydown', e => {
-  switch (e.code) {
-    case 'ArrowLeft': document.querySelector('#preChapter')?.click(); break
-    case 'ArrowRight': document.querySelector('#nextChapter')?.click(); break
-  }
-})
 </script>

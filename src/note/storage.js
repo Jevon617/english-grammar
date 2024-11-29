@@ -23,6 +23,18 @@ export function setStorage(storage) {
   localStorage.setItem(KEY, JSON.stringify(originStorage))
 }
 
+export function getSingleStorage(key) {
+  const id = generateBase64Id()
+  const originStorage = getStorage()
+  const data = originStorage[id] || []
+  const index = data.findIndex(item => item.key === key)
+  if (index > -1) {
+    return { data: data[index], index }
+  } else {
+    return null
+  }
+}
+
 function generateBase64Id() {
   const currentUrl = window.location.href
   return btoa(currentUrl)
